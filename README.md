@@ -1,2 +1,2 @@
 # ridiculum_vitae
-My CD on react under construction ^^
+My CV on react under construction ^^
