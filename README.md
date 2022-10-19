@@ -1,2 +1,2 @@
-# ridiculum_vitae
+# ridiculum-vitae
 My CV on react under construction ^^
